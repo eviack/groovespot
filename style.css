@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico&display=swap');
+h1#groovespot{
+    font-size:3.3rem;
+    transition: .5s ;
+    font-family: 'Quantico', sans-serif;
+}
+h1#groovespot:hover{
+    color: #1db954;
+}
+
+
+footer{
+    visibility: hidden;
+}
+
+img{
+    width: 400px;
+    height: 250px;
+    
+}
+div.element-container.st-emotion-cache-mfg5ck.e1f1d6gn3{
+    margin: 0;
+    padding: 0;
+}
