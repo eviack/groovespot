@@ -6,8 +6,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-cid = "0deba55448434c858c6e13250d810f77"
-secret = "964718b5005a43629cdd63be7402fea0"
+cid = st.secrets['CLIENT_ID']
+secret = st.secrets['CLIENT_SECRET']
 
 st.set_page_config(layout='wide',page_title='GrooveSpot')
 
