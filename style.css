@@ -9,7 +9,7 @@ h1#groovespot:hover{
 }
 
 
-footer{
+footer, header{
     visibility: hidden;
 }
 
